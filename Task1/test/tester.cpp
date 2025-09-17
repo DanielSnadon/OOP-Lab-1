@@ -13,7 +13,7 @@ TEST(Task1Tests, Simple) {
 TEST(Task1Tests, UnchangedSituations) {
     EXPECT_EQ(replace("wowowow", -2, 'w', 'x'), "wowowow");
     EXPECT_EQ(replace("hello", 0, 'l', 'x'), "hello");
-    EXPECT_EQ(replace("what", 0, 'x', 's'), "what");
+    EXPECT_EQ(replace("what", 1, 'x', 's'), "what");
 }
 
 TEST(Task1Tests, Empty) {
