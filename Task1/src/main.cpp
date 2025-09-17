@@ -24,5 +24,5 @@ int main() {
     std::cout << "Итоговая строка:" << std::endl;
     std::cout << answer << std::endl;
 
-    return 1;
+    return 0;
 }
