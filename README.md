@@ -3,4 +3,4 @@
 ### Тема: первая программа на C++
 ### Вариант: 14
 
-<img src="https://github.com/DanielSnadon/OOP-Labs/blob/master/TasksImages/Task1.png" width="100%">
+<img src="https://github.com/DanielSnadon/OOP-Lab-1/blob/main/TasksImages/Task1.png" width="100%">
